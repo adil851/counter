@@ -20,7 +20,7 @@ export default function App()  {
         </button>
 
         <button onClick={() => setMorning(!isMorning)}>
-            Update Day
+            Update counter
         </button>
 
      </div>
